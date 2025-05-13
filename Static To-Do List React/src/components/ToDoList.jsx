@@ -6,9 +6,9 @@ export default function ToDoList() {
 
         <div>
             <ul>
-                <li>`${tasks[0]}`</li>
-                <li>`${tasks[1]}`</li>
-                <li>`${tasks[2]}`</li>
+                <li>{tasks[0]}</li>
+                <li>{tasks[1]}</li>
+                <li>{tasks[2]}</li>
             </ul>
         </div>
 
